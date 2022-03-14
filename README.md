@@ -17,7 +17,7 @@ PREPARE - Data collection and organization (see document : Data Structure) Data 
 
 PROCESS - Data cleaning and transformation done in R  (see document : Data Cleaning) - checking for duplicates, zero values, improbable data, data formatting etc..
 
-ANALYZE - Created some co-relation plots using ggplot functionality in R and various charts to gain insights into trends  (see document :  R-script file)
+ANALYZE - Created some co-relation plots using ggplot functionality in R and various charts to gain insights into trends  (see R-script :  Bellabeat_Analysis.R)
 
 SHARE - Summarized findings, conclusions and recommendations in a presentation
 
