@@ -13,7 +13,7 @@ ANALYSIS STEPS:
 
 ASK - Problem description and SOW (see document : Scope of Work)
 
-PREPARE - Data collection and organization (see document : Data Structure) Data source downloaded from Coursera. Created dataframes by reading in all the csv files into the R Studio environment. 
+PREPARE - Data collection and organization (see document : Data Structure). Data was downloaded from Coursera. Created dataframes by reading in all the csv files into the R Studio environment. 
 
 PROCESS - Data cleaning and transformation done in R  (see document : Data Cleaning) - checking for duplicates, zero values, improbable data, data formatting etc..
 
