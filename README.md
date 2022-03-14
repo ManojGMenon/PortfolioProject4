@@ -11,13 +11,13 @@ Tools used : R Studio cloud and Visual Studio Code
 
 ANALYSIS STEPS:
 
-ASK - Problem description and SOW (Scope of Work)
+ASK - Problem description and SOW (see document : Scope of Work)
 
-PREPARE - Data collection and organization (Data source downloaded from Coursera)  Created dataframes by reading in all the csv files into the R Studio environment. 
+PREPARE - Data collection and organization (see document : Data Structure) Data source downloaded from Coursera. Created dataframes by reading in all the csv files into the R Studio environment. 
 
-PROCESS - Data cleaning and transformation done in R  - checking for duplicates, zero values, improbable data, data formatting etc..
+PROCESS - Data cleaning and transformation done in R  (see document : Data Cleaning) - checking for duplicates, zero values, improbable data, data formatting etc..
 
-ANALYZE - Created some co-relation plots using ggplot functionality in R and various charts to gain insights into trends
+ANALYZE - Created some co-relation plots using ggplot functionality in R and various charts to gain insights into trends  (see document :  R-script file)
 
 SHARE - Summarized findings, conclusions and recommendations in a presentation
 
